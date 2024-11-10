@@ -1,4 +1,4 @@
-<h2 align="center">Hi everyone 👋, I'm A!</h2>
+<h2 align="center">Hi everyone 👋, I'm Long!</h2>
 
 <h3 align="center">🎓 About Me 🎓</h3>
 
