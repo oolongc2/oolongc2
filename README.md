@@ -3,7 +3,7 @@
 <h3 align="center">🎓 About Me 🎓</h3>
 
 <p align="center">
-  I’m a student at <strong>University Information of Technology</strong>, majoring in <strong>Information System Faculty</strong>. I have a deep interest in data analytics and aspire to become a <strong>Data Analyst</strong> in the future.
+  I’m a student at <strong>University Information of Technology</strong>, majoring in <strong>Information System Faculty</strong>. I have a deep interest in data analytics
 </p>
 
 <h3 align="center">🌱 Currently Learning 🌱</h3>
